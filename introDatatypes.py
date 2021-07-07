@@ -20,3 +20,11 @@ cool = 7
 print(cool)
 cool = 7+7
 print(cool)
+#string declarations and escape characters
+new_name = 'Sanjeev'
+msg = 'He said "Hiyah," \n is that English Cockneyed?'
+print(msg)
+str_one = "He said \"ha ha\""
+print(str_one)
+str_two = 'This is a backslash "\\"'
+print(str_two)
